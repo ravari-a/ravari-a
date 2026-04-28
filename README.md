@@ -4,5 +4,7 @@ PhD candidate in Electrical and Computer Engineering at Northeastern University,
 
 Recent work has appeared in *IEEE Transactions on Artificial Intelligence*, *L4DC*, *ACC*, *Asilomar*, and *ICASSP*. Industry experience in multimodal LLMs and medical time-series modeling.
 
-[Google Scholar](https://scholar.google.com/citations?user=rJhy860AAAAJ&hl=en) · 💼 [LinkedIn](https://linkedin.com/in/amirhossein-ravari) · 📫 ravari.a@northeastern.edu
+[Google Scholar](https://scholar.google.com/citations?user=rJhy860AAAAJ&hl=en) 
+[LinkedIn](https://linkedin.com/in/amirhossein-ravari) 
+Email: ravari.a@northeastern.edu
 
